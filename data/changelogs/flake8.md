@@ -1,3 +1,21 @@
+## [7.4.0.20260923](https://pypi.org/project/types-flake8/7.4.0.20260923/) (2026-09-23)
+
+* Bump flake8 to 7.4.* ([#16431](https://github.com/python/typeshed/pull/16431))
+
+    Release: https://pypi.org/pypi/flake8/7.4.0 \
+    Homepage: https://github.com/pycqa/flake8 \
+    Repository: https://github.com/pycqa/flake8 \
+    Typeshed stubs: https://github.com/python/typeshed/tree/main/stubs/flake8 \
+    Diff: https://github.com/pycqa/flake8/compare/7.3.0...7.4.0
+
+    Stubsabot analysis of the diff between the two releases:
+     - Total lines of Python code added: 129.
+     - Total lines of Python code deleted: 160.
+
+    If stubtest fails for this PR:
+    - Leave this PR open (as a reminder, and to prevent stubsabot from opening another PR)
+    - Fix stubtest failures in another PR, then close this PR
+
 ## 7.3.0.20260508 (2026-05-08)
 
 Import some items from typing instead of typing_extensions ([#15711](https://github.com/python/typeshed/pull/15711))

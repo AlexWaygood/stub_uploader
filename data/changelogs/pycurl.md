@@ -1,3 +1,7 @@
+## [7.48.0.20260923](https://pypi.org/project/types-pycurl/7.48.0.20260923/) (2026-09-23)
+
+* Update stubs to 7.48.0 ([#16417](https://github.com/python/typeshed/pull/16417))
+
 ## 7.47.0.20260703 (2026-07-03)
 
 [pycurl] Update stubs to 7.47.0 ([#15971](https://github.com/python/typeshed/pull/15971))

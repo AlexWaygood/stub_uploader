@@ -1,3 +1,14 @@
+## [7.2.0.20260923](https://pypi.org/project/types-docker/7.2.0.20260923/) (2026-09-23)
+
+* Run stubtest on Windows to cover the named pipe transport ([#16422](https://github.com/python/typeshed/pull/16422))
+
+    docker-py installs pywin32 on Windows, so docker.transport.npipeconn
+    and docker.transport.npipesocket import there and stubtest reported the
+    global allowlist entries for them as unused. Move those entries to the
+    linux and darwin allowlists, where the modules fail to import, and add
+    win32 to ci-platforms so the npipe stubs are checked against the
+    runtime.
+
 ## [7.2.0.20260827](https://pypi.org/project/types-docker/7.2.0.20260827/) (2026-08-27)
 
 * Add return type for container labels ([#16272](https://github.com/python/typeshed/pull/16272))

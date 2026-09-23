@@ -1,3 +1,26 @@
+## [26.9.0.20260923](https://pypi.org/project/types-gevent/26.9.0.20260923/) (2026-09-23)
+
+* Bump gevent to 26.9.* ([#16406](https://github.com/python/typeshed/pull/16406))
+
+    Release: https://pypi.org/pypi/gevent/26.9.0 \
+    Homepage: http://www.gevent.org/ \
+    Repository: https://github.com/gevent/gevent \
+    Typeshed stubs: https://github.com/python/typeshed/tree/main/stubs/gevent \
+    Changelog: https://www.gevent.org/changelog.html \
+    Diff: https://github.com/gevent/gevent/compare/26.8.0...26.9.0
+
+    Stubsabot analysis of the diff between the two releases:
+     - Total lines of Python code added: 254.
+     - Total lines of Python code deleted: 8.
+
+    If stubtest fails for this PR:
+    - Leave this PR open (as a reminder, and to prevent stubsabot from opening another PR)
+    - Fix stubtest failures in another PR, then close this PR
+
+    Note that you will need to close and re-open the PR in order to trigger CI
+
+    Co-authored-by: stubsabot <>
+
 ## [26.8.0.20260811](https://pypi.org/project/types-gevent/26.8.0.20260811/) (2026-08-11)
 
 * Bump to 26.8.* ([#16182](https://github.com/python/typeshed/pull/16182))

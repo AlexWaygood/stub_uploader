@@ -1,3 +1,7 @@
+## [1.2.0.20260923](https://pypi.org/project/types-PyMySQL/1.2.0.20260923/) (2026-09-23)
+
+* Update to 1.2.3 ([#16426](https://github.com/python/typeshed/pull/16426))
+
 ## [1.2.0.20260807](https://pypi.org/project/types-PyMySQL/1.2.0.20260807/) (2026-08-07)
 
 * Run Pyrefly on typeshed stubs in CI ([#16155](https://github.com/python/typeshed/pull/16155))

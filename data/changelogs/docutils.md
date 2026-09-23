@@ -1,3 +1,7 @@
+## [0.23.0.20260923](https://pypi.org/project/types-docutils/0.23.0.20260923/) (2026-09-23)
+
+* Annotate publish_doctree parameters ([#16416](https://github.com/python/typeshed/pull/16416))
+
 ## [0.23.0.20260917](https://pypi.org/project/types-docutils/0.23.0.20260917/) (2026-09-17)
 
 * Annotate publish_doctree return type ([#16399](https://github.com/python/typeshed/pull/16399))

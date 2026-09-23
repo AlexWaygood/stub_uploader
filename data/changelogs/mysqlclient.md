@@ -1,3 +1,9 @@
+## [2.3.0.20260923](https://pypi.org/project/types-mysqlclient/2.3.0.20260923/) (2026-09-23)
+
+* Update to 2.3.* ([#16394](https://github.com/python/typeshed/pull/16394))
+
+    Closes: #16390
+
 ## 2.2.0.20260508 (2026-05-08)
 
 Import some items from typing instead of typing_extensions ([#15711](https://github.com/python/typeshed/pull/15711))

@@ -1,3 +1,7 @@
+## [0.5.10.20260923](https://pypi.org/project/types-JACK-Client/0.5.10.20260923/) (2026-09-23)
+
+* Update for 0.5.6 ([#16434](https://github.com/python/typeshed/pull/16434))
+
 ## [0.5.10.20260827](https://pypi.org/project/types-JACK-Client/0.5.10.20260827/) (2026-08-27)
 
 * Re-enable stubtest on darwin ([#16258](https://github.com/python/typeshed/pull/16258))

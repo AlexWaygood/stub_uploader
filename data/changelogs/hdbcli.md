@@ -1,3 +1,19 @@
+## [2.30.0.20260923](https://pypi.org/project/types-hdbcli/2.30.0.20260923/) (2026-09-23)
+
+* Bump hdbcli to 2.30.* ([#16396](https://github.com/python/typeshed/pull/16396))
+
+    Release: https://pypi.org/pypi/hdbcli/2.30.27 \
+    Homepage: https://www.sap.com/ \
+    Typeshed stubs: https://github.com/python/typeshed/tree/main/stubs/hdbcli
+
+    If stubtest fails for this PR:
+    - Leave this PR open (as a reminder, and to prevent stubsabot from opening another PR)
+    - Fix stubtest failures in another PR, then close this PR
+
+    Note that you will need to close and re-open the PR in order to trigger CI
+
+    Co-authored-by: stubsabot <>
+
 ## 2.29.0.20260716 (2026-07-16)
 
 [hdbcli] Bump to 2.29.* and add async types ([#15332](https://github.com/python/typeshed/pull/15332))
